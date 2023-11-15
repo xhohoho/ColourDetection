@@ -17,12 +17,12 @@ Copy the folder and file on local disk.
 
 ### Prerequisites
 
-Requirements to run the software
-Python 3.x, OpenCV 3 or 4
-Open terminal and install numpy, imutils and OpenCV
- pip install opencv-contrib-python
- pip install numpy
- pip install pillow
+Requirements to run the software <br>
+Python 3.x, OpenCV 3 or 4 <br>
+Open terminal and install numpy, imutils and OpenCV <br>
+ pip install opencv-contrib-python <br>
+ pip install numpy <br>
+ pip install pillow <br>
  pip install tk
 
 ## Running the tests
