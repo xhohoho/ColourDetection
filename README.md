@@ -15,14 +15,13 @@ Colour Detection
 
 Copy the folder and file on local disk.
 
-### Prerequisites
-
-Python 3.x, OpenCV 3 or 4 <br>
-Open terminal and install numpy, imutils and OpenCV <br>
-&nbsp pip install opencv-contrib-python <br>
-&nbsp pip install numpy <br>
-&nbsp pip install pillow <br>
-&nbsp pip install tk
+## Dependencies
+1. Python 3.x, OpenCV 3 or 4
+2. Open terminal and install numpy, imutils and OpenCV
+   * ``` pip install opencv-contrib-python```
+   * ``` pip install numpy```
+   * ``` pip install pillow```
+   * ``` pip install tk```
 
 ## Running the tests
 
