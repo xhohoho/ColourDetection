@@ -19,10 +19,10 @@ Copy the folder and file on local disk.
 
 Python 3.x, OpenCV 3 or 4 <br>
 Open terminal and install numpy, imutils and OpenCV <br>
-*Tabspace*pip install opencv-contrib-python <br>
-*Tabspace*pip install numpy <br>
-*Tabspace*pip install pillow <br>
-*Tabspace*pip install tk
+&nbsp pip install opencv-contrib-python <br>
+&nbsp pip install numpy <br>
+&nbsp pip install pillow <br>
+&nbsp pip install tk
 
 ## Running the tests
 
