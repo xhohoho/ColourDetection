@@ -48,7 +48,7 @@ We use [Github](https://github.com/xhohoho/ColourDetection) to keep the version 
 
 ## License
 
-This project is licensed under the [JVCKenwood Electronic Malaysia](http://my.jvckenwood.com/)
+This project is licensed under the [Me]([http://my.jvckenwood.com/](https://github.com/xhohoho/)
 
 ## Acknowledgments
 
